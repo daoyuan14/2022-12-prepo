@@ -46,18 +46,17 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 ---
 
 # PrePO contest details
-- Total Prize Pool: Sum of below awards
-  - HM awards: XXX XXX (Notion Field: Main Pool)
-  - QA report awards: XXX XXX (Notion Field: QA Pool, usually 10% of total award pool)
-  - Gas report awards: XXX XXX (Notion Field: Gas Pool, usually 5% of total award pool)
-  - Judge + presort awards: XXX XXX (Notion Field: Judge Fee)
-  - Scout awards: $500 USDC (this field doesn't exist in Notion yet, usually $500 USDC)
-  - (this line can be removed if there is no mitigation) Mitigation review contest: XXX XXX (*Opportunity goes to top X certified wardens based on placement in this contest.*)
+- Total Prize Pool: $36,500 USDC
+  - HM awards: $25,500 USDC 
+  - QA report awards: $3,000 USDC 
+  - Gas report awards: $1,500 USDC 
+  - Judge + presort awards: $6,000 USDC 
+  - Scout awards: $500 USDC 
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2022-12-prepo-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
-- Starts Dec 06, 2022 20:00 UTC
-- Ends TBD XXX XXX XX 20:00 UTC
+- Starts Dec 09, 2022 20:00 UTC
+- Ends Dec 12, 2022 20:00 UTC
 
 ## C4udit / Publicly Known Issues
 
