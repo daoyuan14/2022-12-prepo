@@ -22,7 +22,7 @@ _Note for C4 wardens: Anything included in the C4udit output is considered a pub
 
 This audit covers the entirety of PrePO's pre-IPO/ICO markets product.
 
-🚨 Contracts can be found [here](https://github.com/prepo-io/prepo-monorepo/tree/25009fbe86f5e186fe1958e772f05d59577d9d32).
+🚨 Contracts can be found [here]( https://github.com/prepo-io/prepo-monorepo/tree/feat/2022-12-prepo).
 
 # Scope
 
