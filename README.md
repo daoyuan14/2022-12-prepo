@@ -20,9 +20,9 @@ _Note for C4 wardens: Anything included in the C4udit output is considered a pub
 
 # Overview
 
-This audit covers the entirety of PrePO's pre-IPO/ICO markets product.
+🚨 The contracts for this contest can be found here: https://github.com/prepo-io/prepo-monorepo/tree/feat/2022-12-prepo
 
-🚨 Contracts can be found [here]( https://github.com/prepo-io/prepo-monorepo/tree/feat/2022-12-prepo).
+This audit covers the entirety of PrePO's pre-IPO/ICO markets product.
 
 # Scope
 
@@ -83,6 +83,8 @@ This audit covers the entirety of PrePO's pre-IPO/ICO markets product.
 | packages/prepo-shared-contracts/contracts/SafeOwnableUpgradeable.sol                 | Same as above, but for upgradeable contracts.                                                                     |
 | packages/prepo-shared-contracts/contracts/WithdrawERC20.sol                          | Allows `owner` to withdraw any `ERC20` tokens residing within an inheriting contract.                             |
 
+Additionally, contracts not listed in [Contracts (16)](#contracts-16) are out of scope for this contest.
+
 ### Known Issues
 
 The following issues are ineligible and have already been highlighted in a previous audit https://code4rena.com/reports/2022-03-prepo
@@ -130,3 +132,5 @@ Run `yarn install` in the root `prepo-monorepo` directory to install all package
 
 - Edit `hardhat.config.ts` to setup connections to different networks
 - To enable gas reporting, add `REPORT_GAS=true` to `.env`
+
+**Note about Slither:** Slither isn't used by the development team and couldn't be made to work for the contest.
